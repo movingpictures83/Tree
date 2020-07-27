@@ -1,0 +1,2 @@
+Prefix plugins/Tree/example
+Plugin Tree inputfile parameters.txt outputfile tree
